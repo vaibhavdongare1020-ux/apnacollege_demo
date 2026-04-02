@@ -1,3 +1,3 @@
 # apnacollege_demo
 This is my first GIT Repo
-Auther - Vaibhav Dongare
+Auther - I am the author of this file
